@@ -1,4 +1,4 @@
-# COMP20290 Algorithms 2021 - 19403454
+# Algorithms 2021 
 
 1.  ## Algorithm Analysis
 
